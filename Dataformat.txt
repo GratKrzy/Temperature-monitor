@@ -1,0 +1,13 @@
+each value is separated by a semicolon this is how the data is formatted
+Date of measurment in dd-mm-yyyy hh-mm
+Humidity measurement from DHT22 in precent
+Temperature measurement from DHT22 in degrees celcius
+ADC measurement of photoresistor
+calculated resistance of that photoresistor
+ADC measurement of first thermistor (next to DHT22)
+calculated temperature of that thermistor in degrees celcius
+ADC measurement of second thermistor (hidden out of the sun)
+calculated temperature of that thermistor in degrees celcius
+ADC measurement of third thermistor (outside)
+calculated temperature of that thermistor in degrees celcius
+state of the window, possible values are open/closed
